@@ -2,11 +2,15 @@
 
 ## À propos du projet
 
-**CoffeeGo** est le résultat d'une aventure passionnante dans le monde du développement web où, en collaboration avec Saber REZKI, avons pris le rôle de clients pour créer une boutique e-commerce mono-produit, le produit étant une machine à café portable. Ce projet a été une opportunité pour nous de plonger dans les besoins réels d'un commerce en ligne et de développer une solution qui répond à ces besoins avec précision et créativité.
+**CoffeeGo** est le résultat d'une aventure passionnante dans le monde du développement web où, en collaboration avec X, avons pris le rôle de clients pour créer une boutique e-commerce mono-produit, le produit étant une machine à café portable. Ce projet a été une opportunité pour nous de plonger dans les besoins réels d'un commerce en ligne et de développer une solution qui répond à ces besoins avec précision et créativité.
 
 ## Lien vers le site
 
 Visitez [CoffeeGo](https://d6a549-2.myshopify.com/) pour découvrir le fruit de notre travail et plonger dans l'univers du café de qualité.
+
+### Maquette graphique
+
+La maquette graphique du projet est un élément clé qui a guidé la conception de notre boutique en ligne. Elle est disponible pour consultation dans notre dépôt, sous le fichier `Maquette.pdf`. Cette maquette illustre notre approche de la conception de l'interface utilisateur, reflétant notre objectif de créer une expérience utilisateur fluide et engageante.
 
 ### Développement
 
