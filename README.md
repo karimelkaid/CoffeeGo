@@ -16,7 +16,7 @@ La maquette graphique du projet est un élément clé qui a guidé la conception
 
 Le processus a commencé par une phase d'immersion complète : choisir un thème pour la boutique, analyser les besoins du marché, et concevoir l'interface utilisateur avec soin sur Figma. Notre objectif était de créer une expérience utilisateur fluide et engageante, qui guide les visiteurs à travers une découverte sensorielle et informative des produits offerts.
 
-Initialement tentés par Laravel, notre curiosité et notre volonté d'offrir le meilleur à notre client nous ont orientés vers Shopify. Cette plateforme nous a permis d'intégrer des fonctionnalités avancées, notamment en termes de suivi de l'activité commerciale et d'analyse statistique. Sans expérience préalable avec Shopify, nous avons relevé le défi : nous nous sommes formés, avons expérimenté, et avons finalement réussi à reproduire fidèlement notre conception initiale sur la plateforme.
+Initialement tentés par Laravel, notre curiosité et notre volonté d'offrir le meilleur à notre client nous ont orientés vers Shopify. Cette plateforme nous a permis d'intégrer des fonctionnalités avancées, notamment en termes de suivi de l'activité commerciale et d'analyse statistique. Sans expérience préalable avec Shopify, nous avons relevé le défi : nous nous sommes formés, avons expérimenté, et avons finalement réussi à reproduire presque fidèlement notre conception initiale sur la maquette.
 
 Le back-end n'a pas été négligé. Nous avons dû plonger dans le code existant, l'analyser minutieusement et le réadapter pour répondre à nos exigences spécifiques, assurant ainsi que la boutique fonctionne non seulement à merveille du point de vue de l'utilisateur, mais soit aussi solide et fiable "sous le capot".
 
