@@ -2,7 +2,7 @@
 
 ## À propos du projet
 
-**CoffeeGo** est le résultat d'une aventure passionnante dans le monde du développement web ,où en collaboration avec Saber REZKI, avons pris le rôle de clients pour créer une boutique e-commerce mono-produit, le produit étant une machine à café portable. Ce projet a été une opportunité pour nous de plonger dans les besoins réels d'un commerce en ligne et de développer une solution qui répond à ces besoins avec précision et créativité.
+**CoffeeGo** est le résultat d'une aventure passionnante dans le monde du développement web où, en collaboration avec Saber REZKI, avons pris le rôle de clients pour créer une boutique e-commerce mono-produit, le produit étant une machine à café portable. Ce projet a été une opportunité pour nous de plonger dans les besoins réels d'un commerce en ligne et de développer une solution qui répond à ces besoins avec précision et créativité.
 
 ## Lien vers le site
 
