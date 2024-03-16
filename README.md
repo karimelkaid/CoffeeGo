@@ -10,7 +10,7 @@ Visitez [CoffeeGo](https://d6a549-2.myshopify.com/) pour découvrir le fruit de 
 
 ### Maquette graphique
 
-La maquette graphique du projet est un élément clé qui a guidé la conception de notre boutique en ligne. Elle est disponible pour consultation dans notre dépôt, sous le fichier [Maquette.pdf](https://github.com/kelkaid/CoffeeGo/blob/main/Maquette%20CoffeeGo.pdf). Cette maquette illustre notre approche de la conception de l'interface utilisateur, reflétant notre objectif de créer une expérience utilisateur fluide et engageante.
+La maquette graphique du projet est un élément clé qui a guidé la conception de notre boutique en ligne. Elle est disponible pour consultation dans notre dépôt, sous le fichier [MaquetteCoffeeGo.pdf](https://github.com/kelkaid/CoffeeGo/blob/main/MaquetteCoffeeGo.pdf). Cette maquette illustre notre approche de la conception de l'interface utilisateur, reflétant notre objectif de créer une expérience utilisateur fluide et engageante.
 
 ### Développement
 
