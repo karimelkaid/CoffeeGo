@@ -6,7 +6,7 @@
 
 ## Lien vers le site
 
-Visitez [CoffeeGo](https://d6a549-2.myshopify.com/) pour découvrir le fruit de notre travail et plonger dans l'univers du café de qualité.
+Rendez-vous prochainement sur [CoffeeGo](https://d6a549-2.myshopify.com/) pour découvrir le fruit de notre travail. Nous mettons la dernière main à notre site pour bientôt vous proposer une expérience authentique. Merci de votre patience et de votre soutien.
 
 ### Maquette graphique
 
