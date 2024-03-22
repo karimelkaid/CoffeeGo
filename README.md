@@ -6,7 +6,7 @@
 
 ## Lien vers le site
 
-Visitez dès maintenant [CoffeeGo](https://d6a549-2.myshopify.com/) pour explorer notre passion pour le développement web. Notre site est désormais en ligne, et nous sommes ravis de vous le présenter.
+Visitez dès maintenant [CoffeeGo](https://d6a549-2.myshopify.com/) pour explorer notre passion pour le développement web. Le site est en ligne, mais gardez à l'esprit que nous sommes encore en train de peaufiner certains détails pour améliorer votre visite. Merci pour votre soutien et votre compréhension.
 
 ### Maquette graphique
 
