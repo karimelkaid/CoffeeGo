@@ -6,7 +6,7 @@
 
 ## Lien vers le site
 
-Rendez-vous prochainement sur [CoffeeGo](https://d6a549-2.myshopify.com/) pour découvrir le fruit de notre travail. Nous mettons la dernière main à notre site pour bientôt vous proposer une expérience authentique. Merci de votre patience et de votre soutien.
+Visitez dès maintenant [CoffeeGo](https://d6a549-2.myshopify.com/) pour explorer notre passion pour le développement web. Notre site est désormais en ligne, et nous sommes ravis de vous le présenter.
 
 ### Maquette graphique
 
